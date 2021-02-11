@@ -5,7 +5,6 @@
 
 ### 👨‍💻 I'm working on
 - Building projects and my portfolio website. 
-Although, I think I'll wait to learn React before I build the website.
 
 ### Tools I work upon : 🛠
 
