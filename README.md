@@ -1,5 +1,6 @@
-<h2> Hey there! I'm Jesrig.</h2>
-
+<h1 align="center"> Hey there! I'm Jesrig.👨‍💻</h1>
+<h2><strong>About me</strong></h2>
+<p> </p>
 ### 🌱 I'm currently learning
 - ReactJS
 
