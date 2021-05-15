@@ -1,6 +1,6 @@
 <h1 align="center"> Hey there! I'm Jesrig.👨‍💻</h1>
 <h2><strong>About me</strong></h2>
-<p> I am a "new web technology enthusiast", I love learning new things and I really enjoy coding modern web applications using cutting edge technologies. I am convinced that the best way to create incredible software is with an enthusiastic and entrepreneurial team that is not afraid to evolve towards improvement. </p>
+<p>I love learning new things and I really enjoy coding modern web applications using cutting edge technologies. I am convinced that the best way to create incredible software is with an enthusiastic and entrepreneurial team that is not afraid to evolve towards improvement. </p>
 
 ### 🌱 I'm currently learning
 - ReactJS
