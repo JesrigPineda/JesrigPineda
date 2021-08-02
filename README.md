@@ -31,5 +31,3 @@
 [![GitHub Jesrig](https://img.shields.io/github/followers/jesrigpineda?label=follow&style=social)](https://github.com/jesrigpineda)
 ![Twitter Follow](https://img.shields.io/twitter/follow/JesrigPineda?style=social)
 <br/>
-
-<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=jesrigpineda)](https://github.com/jesrigpineda/github-profile-trophy) -->
