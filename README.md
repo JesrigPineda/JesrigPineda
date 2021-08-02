@@ -27,6 +27,9 @@
 </details>
 
 ### 🌐 You can contact me at:
-[![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jesrig-p-b24632174)](https://www.linkedin.com/in/jesrigpineda)
-<br />
-[![Twitter Follow](https://img.shields.io/twitter/follow/JesrigPineda?color=1DA1F2&label=Follow%20me%20on%20Twitter%21&logo=twitter&style=for-the-badge)](https://twitter.com/JesrigPineda)
+[![Linkedin Badge](https://img.shields.io/badge/-Jesrig-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jesrig-p-b24632174)](https://www.linkedin.com/in/jesrigpineda)
+[![GitHub Jesrig](https://img.shields.io/github/followers/jesrigpineda?label=follow&style=social)](https://github.com/jesrigpineda)
+![Twitter Follow](https://img.shields.io/twitter/follow/JesrigPineda?style=social)
+<br/>
+
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=jesrigpineda)](https://github.com/jesrigpineda/github-profile-trophy) -->
