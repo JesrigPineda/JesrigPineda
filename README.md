@@ -21,10 +21,8 @@
 
 <br/>
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-  <img align="left" alt="JesrigPineda GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jesrigpineda&show_icons=true&title_color=03fc90&icon_color=03fc90&text_color=03fc90&bg_color=002b19">
-</details>
+### GitHub Stats
+  <img align="center" alt="JesrigPineda GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jesrigpineda&show_icons=true&title_color=03fc90&icon_color=03fc90&text_color=03fc90&bg_color=002b19">
 
 ### 🌐 You can contact me at:
 [![Linkedin Badge](https://img.shields.io/badge/-Jesrig-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jesrig-p-b24632174)](https://www.linkedin.com/in/jesrigpineda)
