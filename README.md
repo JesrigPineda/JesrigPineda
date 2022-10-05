@@ -30,9 +30,6 @@ This quote from Henry Wadsworth Longfellow inspires me to share 🤝 what I have
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-
-### 📊 GitHub Stats
-  <img align="center" alt="JesrigPineda GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jesrigpineda&show_icons=true&title_color=03fc90&icon_color=03fc90&text_color=03fc90&bg_color=002b19">
   
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
