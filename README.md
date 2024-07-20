@@ -1,19 +1,11 @@
 <h1 align="center"> Hey there! I'm Jesrig.👨‍💻</h1>
 <h2><strong>About me</strong></h2>
 <p>"I think people must have a reason that pushes them to the limit."🚀
-
-My why drives me to be a better developer 👨‍💻 with each passing day. Learning 📚 new technologies and working on my personal projects is what I do in my free time and it motivates me.
   
 "Give what you have, for some that may be much more than you can believe."
 
 This quote from Henry Wadsworth Longfellow inspires me to share 🤝 what I have learned, collaborate, and create healthy and motivating relationships.
 </p>
-
-### 🌱 I'm currently learning
-- ReactJS
-
-### 👨‍💻 I'm working on
-- Building projects and my portfolio website. 
 
 ### 💻 Tools I work upon : 🛠
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
