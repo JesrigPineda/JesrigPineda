@@ -2,7 +2,7 @@
 
 I build practical solutions around integrations, automation, and cloud-based workflows.
 
-Most of my work sits between business needs and technical execution: connecting systems, automating repetitive processes, and turning operational problems into simple technical solutions.
+Most of my work happens between business needs and technical execution: connecting systems, automating repetitive processes, and turning operational challenges into practical technical solutions.
 
 ## What I usually work on
 - System integrations
@@ -28,4 +28,4 @@ This GitHub is a curated mix of projects related to:
 - automation
 - cloud workflows
 - operational tooling
-- lightweight frontend support
+- frontend support when needed
