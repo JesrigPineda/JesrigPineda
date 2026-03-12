@@ -1,33 +1,31 @@
-<h1 align="center"> Hey there! I'm Jesrig.👨‍💻</h1>
-<h2><strong>About me</strong></h2>
-<p>"I think people must have a reason that pushes them to the limit."🚀
-  
-"Give what you have, for some that may be much more than you can believe."
+# Hey, I'm Jesrig 👋
 
-This quote from Henry Wadsworth Longfellow inspires me to share 🤝 what I have learned, collaborate, and create healthy and motivating relationships.
-</p>
+I build practical solutions around integrations, automation, and cloud-based workflows.
 
-### 💻 Tools I work upon : 🛠
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE) 
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)  	
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 
-![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-  
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+Most of my work sits between business needs and technical execution: connecting systems, automating repetitive processes, and turning operational problems into simple technical solutions.
 
-### 🌐 You can contact me at:
-[![Linkedin Badge](https://img.shields.io/badge/-Jesrig-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jesrig-p-b24632174)](https://www.linkedin.com/in/jesrigpineda)
-[![GitHub Jesrig](https://img.shields.io/github/followers/jesrigpineda?label=follow&style=social)](https://github.com/jesrigpineda)
-![Twitter Follow](https://img.shields.io/twitter/follow/JesrigPineda?style=social)
-<br/>
+## What I usually work on
+- System integrations
+- Process automation
+- APIs and webhooks
+- Cloud Functions / serverless workflows
+- Ecommerce operations
+- Internal tooling
+
+## Project experience
+Some of the work I've contributed to includes:
+
+- **WaterWatch** — Backend and infrastructure with Firebase, Cloud Functions, Node.js, and JavaScript.
+- **SafePaws** — Backend and infrastructure, endpoint creation, and partial front-end support with React.
+- **Turi** — UX and front-end work with React and JavaScript.
+
+## Tech I use
+JavaScript · Node.js · Firebase · Cloud Functions · React · REST APIs · Webhooks · Shopify · Zapier
+
+## What you'll find here
+This GitHub is a curated mix of projects related to:
+- integrations
+- automation
+- cloud workflows
+- operational tooling
+- lightweight frontend support
